@@ -1,0 +1,23 @@
+{
+  "name": "Delta-E",
+  "version": "0.0.1",
+  "description": "get delta e of 2 colors",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romanoide/deltae.git"
+  },
+  "keywords": [
+    "rgb",
+    "delta"
+  ],
+  "author": "romanoide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romanoide/deltae/issues"
+  },
+  "homepage": "https://github.com/romanoide/deltae"
+}
