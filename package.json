@@ -14,10 +14,13 @@
     "rgb",
     "delta"
   ],
-  "author": "romanoide",
+  "author": "Roman Garcia",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/romanoide/deltae/issues"
   },
-  "homepage": "https://github.com/romanoide/deltae"
+  "homepage": "https://github.com/romanoide/deltae",
+  "dependencies": {
+    "delta-e": "0.0.7"
+  }
 }
