@@ -7,6 +7,7 @@ http://www.easyrgb.com/index.php?X=MATH
 --
 
 ##Usage
+```
 //Require the package
 var color = require('deltae');
 
@@ -36,3 +37,4 @@ color.lab(colorA,function(LAB){
 	var b = LAB.b;
 	console.log(L+" "+a+" "+b);	
 });
+```
