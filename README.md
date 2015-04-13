@@ -12,6 +12,7 @@ npm install deltae
 
 ##Usage
 
+```
 //Require the package
 var color = require('deltae');
 
