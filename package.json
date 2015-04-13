@@ -1,6 +1,6 @@
 {
   "name": "deltae",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "get delta e of 2 colors",
   "main": "./lib",
   "scripts": {

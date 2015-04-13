@@ -1,13 +1,17 @@
-# DeltaE Get color the difference from two hex color values
+#Get the Delta-E from two hex color values
+http://en.wikipedia.org/wiki/Color_difference
+
 
 Implements the formulas from:
 http://www.easyrgb.com/index.php?X=MATH
 
 ##Installation
---
+```
+npm install deltae
+```
 
 ##Usage
-```
+
 //Require the package
 var color = require('deltae');
 
